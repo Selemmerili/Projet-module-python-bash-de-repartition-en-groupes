@@ -1,0 +1,14 @@
+01/14/2021 11:59:19 AM Ouverture du script
+01/14/2021 11:59:32 AM On demande a l'uilisateur quel fichier il veux qu'on ouvre. On ouvre le fichier et on le lit.
+01/14/2021 11:59:34 AM On attribue une variable pour la le nombre de personne dans le fichier.
+01/14/2021 11:59:34 AM Et on lui demande le nombre de personne maximum par groupe
+01/14/2021 11:59:34 AM on défini le nombre des groupe et le nombre des personnes par groupe
+01/14/2021 11:59:34 AM on défini le nombre des groupe et le nombre des personnes par groupe
+01/14/2021 11:59:34 AM avec math.ceil() on arrondi à l'entier supérieur
+01/14/2021 11:59:39 AM Ouverture du script
+01/14/2021 11:59:49 AM On demande a l'uilisateur quel fichier il veux qu'on ouvre. On ouvre le fichier et on le lit.
+01/14/2021 11:59:52 AM On attribue une variable pour la le nombre de personne dans le fichier.
+01/14/2021 11:59:52 AM Et on lui demande le nombre de personne maximum par groupe
+01/14/2021 11:59:52 AM on défini le nombre des groupe et le nombre des personnes par groupe
+01/14/2021 11:59:52 AM on défini le nombre des groupe et le nombre des personnes par groupe
+01/14/2021 11:59:52 AM avec math.ceil() on arrondi à l'entier supérieur
